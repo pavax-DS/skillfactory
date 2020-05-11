@@ -1,3 +1,2 @@
 # skillfactory
- repository for skillfactory 
-test
+ repository for skillfactory
